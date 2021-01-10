@@ -1,6 +1,4 @@
 Ball.java
  Ball
- Ball$1
- Ball$BallColors
 Processing.java
  Processing
